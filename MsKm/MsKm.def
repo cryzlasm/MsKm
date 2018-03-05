@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+	MsKmKeyPress
+	MsKmMouseLeftClick
+	MsKmMouseRightClick
+	MsKmMouseMiddleClick
+	MsKmMouseMove
+	MsKmPressPassword

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/12 20:41:40.000.750,=C:\Users\AnOnYm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/12 20:42:21.000.116,C:\Users\AnOnYm\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\Unit1.dfm</Transaction>
+    <Transaction>2016/11/12 20:42:21.000.116,C:\Users\AnOnYm\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\Unit1.pas</Transaction>
+    <Transaction>2016/11/12 20:42:22.000.516,C:\Users\AnOnYm\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\Project1.dproj</Transaction>
+    <Transaction>2016/11/12 23:01:58.000.261,=C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\Unit2.pas</Transaction>
+    <Transaction>2016/11/12 23:02:13.000.517,C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\uFrmTest.dfm=C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\Unit2.dfm</Transaction>
+    <Transaction>2016/11/12 23:02:13.000.517,C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\uFrmTest.pas=C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\Unit2.pas</Transaction>
+    <Transaction>2016/11/12 23:04:33.000.475,C:\Users\AnOnYm\Desktop\驱动键鼠操作\kmclassTZ\DelphiTest\Unit1.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
